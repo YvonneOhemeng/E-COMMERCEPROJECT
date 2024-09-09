@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\E-CommerceClothingWebApp.props" />
+</Project>
