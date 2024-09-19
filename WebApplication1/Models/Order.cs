@@ -1,7 +1,7 @@
 using System;
 using System.ComponentModel.DataAnnotations;
 
-namespace E-commerceClothingWebApp.Models
+namespace WebApplication1.Models
 {
     public class Order
     {

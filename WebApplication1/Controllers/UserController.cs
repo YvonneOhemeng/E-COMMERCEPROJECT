@@ -5,7 +5,7 @@ namespace E-CommerceClothingWebApp.WebApplication1.Controllers
     public class UserController : Controller
     {
         // GET: UserController
-        public ActionResult Index()
+        public IActionResult Index()
         {
             return View();
         }
